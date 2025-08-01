@@ -17,6 +17,13 @@ This is a simple and responsive Image Gallery website created using *HTML, **CSS
 ## 🔗 Live Preview
 [🔍 View Project](https://shivam311-bit.github.io/CodeAlpha_ImageGallery/) <!-- Update if needed -->
 
+# Preview
+
+https://github.com/user-attachments/assets/cecd261a-8edd-4604-8184-ca093bce5af8
+
+
+
+
 ## 📎 Credits
 - Internship: *CodeAlpha*
 - Author: [Shivam](https://github.com/shivam311-bit)
